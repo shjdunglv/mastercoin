@@ -1,0 +1,6 @@
+[submodule "public/tradingview"]
+	path = public/tradingview
+	url = git@github.com:sotatek-dev/tradingview.git
+[submodule "microservices/bot"]
+	path = microservices/bot
+	url = git@github.com:sotatek-dev/trading_order_bot.git
